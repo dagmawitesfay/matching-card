@@ -57,11 +57,11 @@ span{
 }
 
 .card-back{
-    /* to make the txt   */
+    /* to make the txt invisible  */
    font-size: 0;
 }
 
-/* Toggle to add with javascript */
+/*  add to javascript */
 .flipped{
     font-size:48px ;
 }

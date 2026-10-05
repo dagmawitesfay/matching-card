@@ -1,6 +1,11 @@
 # Matching Card Game
 
-A  browser-based memory card game built with HTML, CSS, and JavaScript. The player flips two cards at a time and tries to find all matching pairs before the board is cleared.
+ Memory card game built with HTML, CSS, and JavaScript. The player flips two cards at a time and tries to find all matching pairs before the board is cleared.
+
+ ### Demo
+
+![Memory card Game Demo](image/memory.png)
+
 
 ## Overview
 
@@ -11,6 +16,7 @@ This project is a concentration/memory game using fruit emojis. It includes:
 - Two-card matching logic
 - Temporary delay when a pair is incorrect
 - Win alert when all pairs are found
+
 
 ## Gameplay
 
